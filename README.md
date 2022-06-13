@@ -35,3 +35,5 @@ python Server.py
 Вводим help и видем всё настройки 
 update - Для обновления листа ботов 
 list - Показать активных ботов 
+Команда атаки<br>
+attack udp <ip> <port> <time in second> <thread>
