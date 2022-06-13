@@ -20,3 +20,10 @@ run=False
 Когда всё подготовленно , осталось зделать с Python  в EXe файл<br>
 
 Установка pyinstaller<br>
+pip install pyinstaller
+
+После полной установки в нашем директории bot <br>
+Приступаем к билду exe <br>
+pyinstaller --onefile --noconsole smss.py<br>
+Флаг --onefile собирает всё в один файл<br>
+Флаг --noconsole делает так чтобы при запуске скрывалась консоль <br>
