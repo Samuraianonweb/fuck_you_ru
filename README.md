@@ -2,6 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Простой бот-нет своими руками ot N∆RI</h3>
 Можно также использовать как панель для VPS ботнета <br>
+Лучше всего проверить работоспособность на себе ,а потом заливать куда-то<br>
 Клонируем гит <br>
  
 ```shell
