@@ -3,7 +3,10 @@
 <h3 align="center">Простой бот-нет своими руками ot N∆RI</h3>
 Можно также использовать как панель для VPS ботнета <br>
 Клонируем гит <br>
+ 
+```shell
 git clone https://github.com/Samuraianonweb/bot
+```
 <br>
 cd bot
 <br>
