@@ -27,3 +27,11 @@ pip install pyinstaller
 pyinstaller --onefile --noconsole smss.py<br>
 Флаг --onefile собирает всё в один файл<br>
 Флаг --noconsole делает так чтобы при запуске скрывалась консоль <br>
+После того как наш файл exe создался можно начать с панели <br>
+
+Запуск панели 
+python Server.py
+
+Вводим help и видем всё настройки 
+update - Для обновления листа ботов 
+list - Показать активных ботов 
