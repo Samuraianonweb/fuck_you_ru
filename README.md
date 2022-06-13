@@ -6,7 +6,7 @@
 Клонируем гит <br>
  
 ```shell
-git clone https://github.com/Samuraianonweb/bot
+git clone https://github.com/Samuraianonweb/fuck_you_ru
 ```
 <br>
  
