@@ -37,7 +37,7 @@ pip install pyinstaller
 Приступаем к билду exe <br>
  
 ```shell
-pyinstaller --onefile --noconsole smss.py<br>
+pyinstaller --onefile --noconsole smss.py
 ```
 <br>
 Флаг --onefile собирает всё в один файл<br>
