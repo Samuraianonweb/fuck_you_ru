@@ -9,3 +9,6 @@ cd bot
 <br>
 Редактируем файл smss.py
 <br>
+run=False
+	def __init__(self, connect:Tuple[str,int]=("вставляем свой ip",9999)) -> None:
+<br>
