@@ -11,7 +11,7 @@ git clone https://github.com/Samuraianonweb/bot
 <br>
  
 ```shell
-cd bot
+cd fuck_you_ru
 ```
 <br>
 Чтобы не попасться , лучше использовать VPS<br>
