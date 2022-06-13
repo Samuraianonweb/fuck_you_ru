@@ -34,7 +34,7 @@ run=False
 pip install pyinstaller
 ```
 
-После полной установки pyinstaller в нашем директории bot <br>
+После полной установки pyinstaller в нашем директории fuck_you_ru <br>
 Приступаем к билду exe <br>
  
 ```shell
