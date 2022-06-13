@@ -21,10 +21,10 @@ ifconfig
 ```
 Редактируем файл smss.py
 
-<br>
+```python
 run=False
 	def __init__(self, connect:Tuple[str,int]=("вставляем свой ip",9999)) -> None:
-<br>
+```
 Когда всё подготовленно , осталось зделать с Python  в EXe файл<br>
 
 Установка pyinstaller<br>
