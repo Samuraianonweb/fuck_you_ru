@@ -15,11 +15,12 @@ cd bot
 <br>
 Чтобы не попасться , лучше использовать VPS<br>
 
-Чтобы узнать свой(VPS) ip 
+Чтобы узнать свой(VPS) ip <br>
  
 ​```shell
-$ ifconfig <br>
+$ ifconfig
 ```
+
 Редактируем файл smss.py
 
 <br>
