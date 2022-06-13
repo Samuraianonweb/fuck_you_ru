@@ -45,7 +45,11 @@ pyinstaller --onefile --noconsole smss.py
 После того как наш файл exe создался можно начать с панели <br>
 
 Запуск панели 
- 
+ Инфо (Ваши боты в тайне будут каждые 10 секунду проверять подключение к панели)
+```
+Error connecting ('ip', 9999)| Sleep 10 seconds
+```
+
 ```shell
 python Server.py
 ```
