@@ -63,7 +63,7 @@ class Colours:
 class Server(Colours):
 	co=["green","lgreen","lightgreen","grey","red","lred","lightred","cyan","lcyan","lightcyan","blue","lblue","lightblue","purple","yellow","white","lpurple","lightpurple","orange"]
 	
-	def __init__(self, connect:Tuple[str,int]=("0.0.0.0",9999)):
+	def __init__(self, connect:Tuple[str,int]=("185.141.27.21",9999)):
 		super().__init__()
 		signal.signal(signal.SIGINT, self.exit_gracefully)
 		signal.signal(signal.SIGTERM, self.exit_gracefully)
